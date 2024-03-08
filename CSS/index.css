@@ -21,4 +21,5 @@ p {
 
 .references {
  list-style-type: decimal;
+ float: none;
 }
